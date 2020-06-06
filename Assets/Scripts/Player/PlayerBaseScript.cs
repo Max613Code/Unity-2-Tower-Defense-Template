@@ -17,7 +17,7 @@ public class PlayerBaseScript : MonoBehaviour
     private int resources = 100;
     private float resourseCoolDown = 1f;
     private float timerCoolDown;
-    private int resourcesIncrease = 10;
+    private int resourcesIncrease = 100;
     [SerializeField]
     private int currentTower = 0;
     public TowerListScript towerListManager;

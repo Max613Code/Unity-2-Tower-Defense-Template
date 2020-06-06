@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc98d3f84ad0438e807be03b7b26247, type: 3}
+  m_Name: Tower4
+  m_EditorClassIdentifier: 
+  TowerName: Tower4
+  cost: 2500
+  health: 2000
+  attackRate: 0.025
+  color: {r: 0.9433962, g: 0.4396142, b: 0.057849795, a: 1}
+  sprite: {fileID: 21300000, guid: 811a50df17e21436cae8fcdd4dc70948, type: 3}
+  projectile: {fileID: 11400000, guid: f8682ac75093b6342bdf3ea1991b6e96, type: 2}
