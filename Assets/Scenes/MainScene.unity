@@ -64508,7 +64508,7 @@ MonoBehaviour:
   playerResourcesText: {fileID: 2109967424}
   gameOverField: {fileID: 140543123}
   cursor: {fileID: 1628703083}
-  towerTemplate: {fileID: 177289955711521778, guid: 4f84e9de026684e9baf70b07ed889a75,
+  towerTemplate: {fileID: 3292031367106842067, guid: 4f84e9de026684e9baf70b07ed889a75,
     type: 3}
   health: 1000
   resources: 100

@@ -21,6 +21,7 @@ public class ProjectileManager : MonoBehaviour
     {
         if (target)
         {
+            Debug.Log(target);
             transform.position = Vector3.MoveTowards(transform.position, target.transform.position, self.speed * Time.deltaTime);
         }
         else
